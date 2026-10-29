@@ -1,3 +1,0 @@
-Sample examination paper
-Question 1: Explain AES and RSA.
-Question 2: What is a digital signature?

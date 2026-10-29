@@ -1,0 +1,11 @@
+# Python runtime and local environment
+__pycache__/
+*.py[cod]
+.venv/
+
+# Private keys must stay on the participants' machines
+**/private_key.pem
+
+# Local plaintext examination papers and recovered outputs
+Sender/exam_paper.txt
+Recovered/
