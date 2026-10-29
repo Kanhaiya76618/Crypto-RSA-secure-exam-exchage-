@@ -1,0 +1,2 @@
+Sample examination paper
+Question 1: Explain encryption.

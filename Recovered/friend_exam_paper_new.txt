@@ -1,0 +1,34 @@
+ENGINEERING FACULTY — CONFIDENTIAL EXAMINATION PAPER
+=====================================================
+Course   : CS3501 — Cryptography and Network Security
+Date     : 29 October 2026
+Duration : 3 hours
+Max Marks: 100
+
+                        PART A  (5 × 2 = 10 Marks)
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Define the Avalanche Effect in block ciphers.
+2. State Kerckhoffs' principle.
+3. What is the difference between a stream cipher and a block cipher?
+4. List two properties required of a cryptographic hash function.
+5. What is the purpose of a Message Authentication Code (MAC)?
+
+                        PART B  (5 × 6 = 30 Marks)
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6. Explain the Diffie-Hellman Key Exchange protocol with an example.
+7. Describe the RSA key-generation algorithm step by step.
+8. Compare ECB and CBC modes of AES. Why is ECB insecure for images?
+9. Explain the working of HMAC with a diagram.
+10. What is a digital certificate? Describe the X.509 structure.
+
+                        PART C  (3 × 20 = 60 Marks)
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11. Design a secure file-transfer protocol that provides confidentiality,
+    integrity, and sender authentication. Justify each cryptographic
+    primitive you choose.
+12. Implement the ElGamal encryption scheme in Python. Encrypt and
+    decrypt the message m = 42 with a 256-bit prime.
+13. Analyse the security of SHA-256. Discuss birthday attacks and their
+    implications for digital signatures.
+
+                            --- END OF PAPER ---
